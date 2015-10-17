@@ -1,5 +1,5 @@
 // MAKERPREP
-//LESSON https://github.com/MakerPrepLA/makerprepla/blob/master/lessons/lesson09(objects)/lesson9.md
+//LESSON 9: https://github.com/MakerPrepLA/makerprepla/blob/master/lessons/lesson09(objects)/lesson9.md
 //Completed EXERCISES: https://jsbin.com/moyuhuseba/1/edit?js,console,output
 
 
